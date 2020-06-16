@@ -1,3 +1,3 @@
 # testes-unitarios-junit
 
-Testes básicos realizados com JUnit.
+Testes básicos realizados com JUnit
